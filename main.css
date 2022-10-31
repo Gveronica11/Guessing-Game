@@ -1,0 +1,42 @@
+/* Write your CSS code in this file */
+body {
+    display: flex;
+	padding-top: 5%;
+	background:rgb(163, 193, 252);
+	color: rgb(246, 246, 246);
+	font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+    text-align: center;
+    flex-direction: column;
+}
+
+#container{
+	background-color: rgb(88, 58, 138);
+	padding: auto;
+	margin-top: 10em;
+	display: flex;
+	flex-direction: column;
+	border-radius: 8px;
+}
+
+#inputButton{
+	border: 12px solid white;
+    width: 60px;
+    height: 20px;
+    text-align: center;
+    box-shadow: black;
+  }
+
+
+h1 {
+    
+	text-shadow: 1px 1px 1px #000;
+    text-align: center;
+	color: #FFF;
+}
+
+
+
+
+
+
+
